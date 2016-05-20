@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataImport", "DataImport\DataImport.csproj", "{CD95BDF3-06C9-4619-A853-D874DCEE7933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataImportTests", "DataImport.Test\DataImportTests.csproj", "{E8412D74-4556-483E-8B3C-6E488204B0B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D5505AF-090E-42C7-8276-20B998DF30D2}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD95BDF3-06C9-4619-A853-D874DCEE7933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD95BDF3-06C9-4619-A853-D874DCEE7933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD95BDF3-06C9-4619-A853-D874DCEE7933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD95BDF3-06C9-4619-A853-D874DCEE7933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8412D74-4556-483E-8B3C-6E488204B0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8412D74-4556-483E-8B3C-6E488204B0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8412D74-4556-483E-8B3C-6E488204B0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8412D74-4556-483E-8B3C-6E488204B0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
